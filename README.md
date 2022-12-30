@@ -44,7 +44,7 @@ The sources can be placed in realtime by pressing the left mouse button at the d
 implemented as soft sources. Source frequency can be set in the respective menu. Spacebar pauses the simulation and spacebar resets it (removes the sources).
 
 
-## Materials
+## Material Editor
 
 A small editor is included, where shapes such as rectangles, circles and polygons (triangles) can be arbitrarily spaced within the problem space. Permittivity 
 and Permeabiliyty can be set before placement. Backspace in the editor menu removes the latest material placed. Also Materials can be imported from image files 
