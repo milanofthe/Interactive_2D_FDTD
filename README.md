@@ -11,7 +11,7 @@ for the left-right and top-bottom boundaries.
 
 <p float="left">
   <img src="assets/dirichlet.png" height="250"  hspace="20" />
-  <img src="assets/periodic.png" height="250"  hspace="40" /> 
+  <img src="assets/periodic.png" height="250"  hspace="50" /> 
   <img src="assets/pml.png" height="250" />
 </p>
 
