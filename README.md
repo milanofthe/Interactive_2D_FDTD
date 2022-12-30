@@ -10,9 +10,9 @@ Currently supported are dirichlet and periodic boundary conditions and unidirect
 for the left-right and top-bottom boundaries.
 
 <p float="left">
-  <img src="assets/dirichlet.png" width="100" />
-  <img src="assets/periodic.png" width="100" /> 
-  <img src="assets/pml.png" width="100" />
+  <img src="assets/dirichlet.png" height="200" />
+  <img src="assets/periodic.png" height="200" /> 
+  <img src="assets/pml.png" height="200" />
 </p>
 
 
