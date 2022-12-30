@@ -4,6 +4,16 @@ Interactive 2D electromagnetic simulation environment for educational purposes. 
 and simulates the TE-mode (could be easily extended to compute the TM-mode also). There are multiple options for boundary conditions and sources.
 
 
+## Menu
+
+An interactive main menu and sub menues makes navigation easy
+
+<p float="left">
+  <img src="assets/menu.png" height="250"  hspace="50" />
+  <img src="assets/menusim.png" height="250"  /> 
+</p>
+
+
 ## Boundary Conditions
 
 Currently supported are dirichlet and periodic boundary conditions and unidirectional perfectly matched layer (PML). The BC can be indicvidually selected 
