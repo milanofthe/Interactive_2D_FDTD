@@ -9,8 +9,8 @@ and simulates the TE-mode (could be easily extended to compute the TM-mode also)
 An interactive main menu and sub menues makes navigation easy
 
 <p float="left">
-  <img src="assets/menu.PNG" height="200"  hspace="50" />
-  <img src="assets/menusim.PNG" height="200"  /> 
+  <img src="assets/menu.PNG" height="220"  hspace="50" />
+  <img src="assets/menusim.PNG" height="220"  /> 
 </p>
 
 
@@ -20,9 +20,9 @@ Currently supported are dirichlet and periodic boundary conditions and unidirect
 for the left-right and top-bottom boundaries.
 
 <p float="left">
-  <img src="assets/dirichlet.png" height="200"  hspace="20" />
-  <img src="assets/periodic.png" height="200"  hspace="50" /> 
-  <img src="assets/pml.png" height="250" />
+  <img src="assets/dirichlet.png" height="220"  hspace="20" />
+  <img src="assets/periodic.png" height="220"  hspace="50" /> 
+  <img src="assets/pml.png" height="220" />
 </p>
 
 
@@ -37,6 +37,12 @@ implemented as soft sources. Source frequency can be set in the respective menu.
 A small editor is included, where shapes such as rectangles, circles and polygons (triangles) can be arbitrarily spaced within the problem space. Permittivity 
 and Permeabiliyty can be set before placement. Backspace in the editor menu removes the latest material placed. Also Materials can be imported from image files 
 as bitmap, but the path to the file and the material properties have to be specified in the configuration file.
+
+
+<p float="left">
+  <img src="assets/editor01.PNG" height="220"  hspace="50" />
+  <img src="assets/editor02.PNG" height="220"  /> 
+</p>
 
 
 ## GPU
