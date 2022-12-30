@@ -9,6 +9,12 @@ and simulates the TE-mode (could be easily extended to compute the TM-mode also)
 Currently supported are dirichlet and periodic boundary conditions and unidirectional perfectly matched layer (PML). The BC can be indicvidually selected 
 for the left-right and top-bottom boundaries.
 
+<p float="left">
+  <img src="assets/dirichlet.png" width="100" />
+  <img src="assets/periodic.png" width="100" /> 
+  <img src="assets/pml.png" width="100" />
+</p>
+
 
 ## Sources
 
