@@ -1,7 +1,6 @@
 # Interactive 2D FDTD Simulator
 
-Interactive 2D electromagnetic simulation environment for educational purposes. The simulator uses the 2D finite difference time domain (FDTD) method 
-and simulates the TE-mode (could be easily extended to compute the TM-mode also). There are multiple options for boundary conditions and sources.
+Interactive 2D electromagnetic simulation environment for educational purposes. There are multiple options for boundary conditions and sources.
 
 
 ## Menu
@@ -9,8 +8,8 @@ and simulates the TE-mode (could be easily extended to compute the TM-mode also)
 An interactive main menu and sub menues makes navigation easy
 
 <p float="left">
-  <img src="assets/menu.PNG" height="220"  hspace="50" />
-  <img src="assets/menusim.PNG" height="220"  /> 
+  <img src="assets/menu.PNG" width="350"  hspace="50" />
+  <img src="assets/menusim.PNG" width="350"  /> 
 </p>
 
 
@@ -24,6 +23,19 @@ for the left-right and top-bottom boundaries.
   <img src="assets/periodic.png" height="220"  hspace="50" /> 
   <img src="assets/pml.png" height="220" />
 </p>
+
+
+## Simulation
+
+The simulator uses the 2D finite difference time domain (FDTD) method 
+and simulates the TE-mode (could be easily extended to compute the TM-mode also).
+
+<p float="left">
+  <img src="assets/sim01.PNG" width="350"  hspace="50" />
+  <img src="assets/sim02.PNG" width="350"  /> 
+</p>
+
+
 
 
 ## Sources
@@ -40,8 +52,8 @@ as bitmap, but the path to the file and the material properties have to be speci
 
 
 <p float="left">
-  <img src="assets/editor01.PNG" height="220"  hspace="50" />
-  <img src="assets/editor02.PNG" height="220"  /> 
+  <img src="assets/editor01.PNG" width="350"  hspace="50" />
+  <img src="assets/editor02.PNG" width="350"  /> 
 </p>
 
 
