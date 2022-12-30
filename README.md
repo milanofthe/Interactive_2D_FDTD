@@ -9,8 +9,8 @@ and simulates the TE-mode (could be easily extended to compute the TM-mode also)
 An interactive main menu and sub menues makes navigation easy
 
 <p float="left">
-  <img src="assets/menu.png" height="250"  hspace="50" />
-  <img src="assets/menusim.png" height="250"  /> 
+  <img src="assets/menu.PNG" height="200"  hspace="50" />
+  <img src="assets/menusim.PNG" height="200"  /> 
 </p>
 
 
@@ -20,8 +20,8 @@ Currently supported are dirichlet and periodic boundary conditions and unidirect
 for the left-right and top-bottom boundaries.
 
 <p float="left">
-  <img src="assets/dirichlet.png" height="250"  hspace="20" />
-  <img src="assets/periodic.png" height="250"  hspace="50" /> 
+  <img src="assets/dirichlet.png" height="200"  hspace="20" />
+  <img src="assets/periodic.png" height="200"  hspace="50" /> 
   <img src="assets/pml.png" height="250" />
 </p>
 
