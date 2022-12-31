@@ -2,6 +2,11 @@
 
 Interactive 2D electromagnetic simulation environment for educational purposes. There are multiple options for boundary conditions and sources.
 
+## Demo
+
+<p float="left">
+  <img src="2D_FDTD_DEMO.mp4" width="750" />
+</p>
 
 ## Menu
 
