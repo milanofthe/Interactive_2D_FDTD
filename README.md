@@ -5,7 +5,7 @@ Interactive 2D electromagnetic simulation environment for educational purposes. 
 ## Demo
 
 <p float="left">
-  <video src="2D_FDTD_DEMO.mp4" controls="controls" style="max-width: 730px;">
+  <video src="/2D_FDTD_DEMO.mp4" controls="controls" style="max-width: 730px;">
 </p>
 
 
