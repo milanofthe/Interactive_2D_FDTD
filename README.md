@@ -5,9 +5,9 @@ Interactive 2D electromagnetic simulation environment for educational purposes. 
 ## Demo
 
 
-
-https://user-images.githubusercontent.com/105657697/210134479-2b8675be-0c25-4454-b752-e709176da094.mp4
-
+<p align="center">
+  https://user-images.githubusercontent.com/105657697/210134479-2b8675be-0c25-4454-b752-e709176da094.mp4
+</p>
 
 
 
