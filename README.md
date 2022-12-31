@@ -2,10 +2,6 @@
 
 Interactive 2D electromagnetic simulation environment for educational purposes. There are multiple options for boundary conditions and sources.
 
-## Demo
-
-https://user-images.githubusercontent.com/105657697/210134479-2b8675be-0c25-4454-b752-e709176da094.mp4
-
 
 ## Menu
 
@@ -64,3 +60,11 @@ as bitmap, but the path to the file and the material properties have to be speci
 ## GPU
 
 GPU acceleration is supported via numbas cuda jit compiler. Also runs fine on CPU when the simulation grid still fits in the cache.
+
+
+## Demo
+
+https://user-images.githubusercontent.com/105657697/210134479-2b8675be-0c25-4454-b752-e709176da094.mp4
+
+
+
