@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/105657697/210134479-2b8675be-0c25-4454
 
 An interactive main menu and sub menues makes navigation easy
 
-<p float="center">
+<p align="center">
   <img src="assets/menu.PNG" width="350"  hspace="50" />
   <img src="assets/menusim.PNG" width="350"  /> 
 </p>
