@@ -4,11 +4,7 @@ Interactive 2D electromagnetic simulation environment for educational purposes. 
 
 ## Demo
 
-
-<p align="center">
 https://user-images.githubusercontent.com/105657697/210134479-2b8675be-0c25-4454-b752-e709176da094.mp4
-</p>
-
 
 
 ## Menu
@@ -26,7 +22,7 @@ An interactive main menu and sub menues makes navigation easy
 Currently supported are dirichlet and periodic boundary conditions and unidirectional perfectly matched layer (PML). The BC can be indicvidually selected 
 for the left-right and top-bottom boundaries.
 
-<p float="left">
+<p align="center">
   <img src="assets/dirichlet.png" height="220"  hspace="20" />
   <img src="assets/periodic.png" height="220"  hspace="50" /> 
   <img src="assets/pml.png" height="220" />
@@ -38,7 +34,7 @@ for the left-right and top-bottom boundaries.
 The simulator uses the 2D finite difference time domain (FDTD) method 
 and simulates the TE-mode (could be easily extended to compute the TM-mode also).
 
-<p float="left">
+<p align="center">
   <img src="assets/sim01.PNG" width="350"  hspace="50" />
   <img src="assets/sim02.PNG" width="350"  /> 
 </p>
@@ -59,7 +55,7 @@ and Permeabiliyty can be set before placement. Backspace in the editor menu remo
 as bitmap, but the path to the file and the material properties have to be specified in the configuration file.
 
 
-<p float="left">
+<p align="center">
   <img src="assets/editor01.PNG" width="350"  hspace="50" />
   <img src="assets/editor02.PNG" width="350"  /> 
 </p>
