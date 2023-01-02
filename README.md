@@ -28,7 +28,8 @@ for the left-right and top-bottom boundaries.
 ## Simulation
 
 The simulator uses the 2D finite difference time domain (FDTD) method 
-and simulates the TE-mode (could be easily extended to compute the TM-mode also).
+and simulates the TE-mode (could be easily extended to compute the TM-mode also). Runs at half pixel 
+resolution internally and is upscaled 2x (default) for display.
 
 <p align="center">
   <img src="assets/sim01.PNG" width="350"  hspace="50" />
