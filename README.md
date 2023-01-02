@@ -41,7 +41,7 @@ and simulates the TE-mode (could be easily extended to compute the TM-mode also)
 ## Sources
 
 The sources can be placed in realtime by pressing the left mouse button at the desired location. Currently only gaussian pulse and sinnusoidal sources are 
-implemented as soft sources. Source frequency can be set in the respective menu. Spacebar pauses the simulation and spacebar resets it (removes the sources).
+implemented as soft sources. Source frequency can be set in the respective menu. "Spacebar" pauses the simulation and pressing "R" resets it (removes the sources).
 
 
 ## Material Editor
